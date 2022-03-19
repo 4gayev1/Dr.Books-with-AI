@@ -1,0 +1,26 @@
+.alma{
+    display: flex;
+    flex-wrap: wrap;
+    width: 80%;
+justify-content: space-around;
+margin: auto;
+}
+
+.armud{
+    width: 20%;
+    height: 250px;
+        margin: 50px;
+}
+
+.pic{
+    width: 150px;
+    height: 100%;
+    margin: 10px;
+
+}
+
+.f{
+    display: flex;
+    flex-direction: column;
+}
+
